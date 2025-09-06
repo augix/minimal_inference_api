@@ -1,4 +1,5 @@
 # augix
+*.pid
 ckpt/
 data/
 

@@ -35,6 +35,7 @@ streamlit run web_ui.py --server.port 8051
 
 5. Open your browser and go to `http://localhost:8051`
 
+
 ## Features
 
 - Autoencoder for image reconstruction
