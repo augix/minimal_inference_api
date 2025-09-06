@@ -1,0 +1,9 @@
+{
+    "ckpt_folder": "./ckpt",
+    "ckpt_path": "./ckpt/last.ckpt",
+    "api_port": 8001,
+    "web_ui_port": 8051,
+    "epochs": 20,
+    "batch_size": 64,
+    "learning_rate": 0.001
+}
